@@ -1,0 +1,3 @@
+# to make extension acessible for all .qmd in children directories
+format:
+  scl-revealjs: default

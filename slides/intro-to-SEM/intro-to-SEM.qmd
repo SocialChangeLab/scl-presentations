@@ -1,0 +1,33 @@
+---
+title: "Methods Primer"
+subtitle: "Intro to Strucutural Equation Modeling"
+author: "Lennart Klein"
+date: "2024-01-17"
+# institute: "Social Change Lab"
+format:
+  scl-revealjs: default
+execute:
+  cache: true
+  freeze: auto
+  warning: false
+  echo: true
+---
+
+# Setup
+
+## Load Packages
+
+```{r setup}
+#| echo: true
+#| output: false
+
+library(tidyverse)
+```
+
+## Data Prep
+
+## Ressources
+
+- Cernat, Alexandru. 2022. Longitudinal Data Analysis Using R. Leanpub. https://leanpub.next/long-data-r
+- Newsom, Jason T. 2015. Longitudinal Structural Equation Modeling: A Comprehensive Introduction. New York: Routledge.
+
